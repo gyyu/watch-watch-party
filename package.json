@@ -1,0 +1,17 @@
+{
+  "name": "Watch Party",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gyyu",
+  "dependencies": {
+    "active-win": "^6.1.0",
+    "discord-rpc": "^3.0.1",
+    "gapi": "0.0.3",
+    "jquery": "^3.5.1",
+    "request": "^2.88.2"
+  }
+}
